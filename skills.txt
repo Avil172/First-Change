@@ -1,8 +1,5 @@
-Python
-Java
-Angular
-JS
-Tomcat
-Maven
-Jenkins
-Docker
+Scarlett
+Triss
+Hannah
+Abigail
+Winter
